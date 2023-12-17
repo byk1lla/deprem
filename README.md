@@ -46,7 +46,7 @@ Aşağıda Bir Örnek Resim Mevcuttur.
 
 [Orhan Aydoğdu Deprem API](https://api.orhanaydogdu.com.tr/deprem/kandilli/live)
 
-Bu hizmeti Herkese Sunduğu için Teşekkür ederiz [orhan abi](https://github.com/orhanayd)!
+Bu hizmeti Herkese Sunduğun için Teşekkür ederiz [orhan abi](https://github.com/orhanayd)!
 
 ## License  
 
